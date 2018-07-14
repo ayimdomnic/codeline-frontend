@@ -1,0 +1,5 @@
+export const HOME_SET = "HOME_SET"
+export const SEARCH_SET = "SEARCH_SET"
+export const LOCATION_SET = "LOCATION_SET"
+export const FORM_SUBMIT = "FORM_SUBMIT"
+export const FORM_RETURN = "FORM_RETURN"
