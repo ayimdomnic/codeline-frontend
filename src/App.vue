@@ -9,7 +9,7 @@
   </div>
 </template>
 <script>
-  import AppHeader from './layout/AppHeader'
+  import AppHeader from './layouts/AppHeader'
 
   export default {
     name: 'App',
